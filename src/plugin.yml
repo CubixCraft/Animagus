@@ -5,4 +5,6 @@ author: silvinci
 authors: [silvinci, _baam_, CubixCraft]
 website: https://github.com/CubixCraft/Animagus
 
+depend: [Vault]
+
 main: com.github.cubixcraft.Animagus.Main
